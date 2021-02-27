@@ -1,4 +1,4 @@
-class MinosBin < Formula
+class Minos < Formula
   version '0.3.3'
   desc "Minos generates scenarios based on the information in an OpenAPI v3 file. These scenarios can then be displayed, used as a test suite or used as a performance suite."
   homepage "https://github.com/JordiPolo/minos"
