@@ -1,9 +1,7 @@
-# Jordipolo Minos
+# Minos Brew formula
 
 ## How do I install these formulae?
-`brew install jordipolo/minos/<formula>`
+`brew install jordipolo/minos/minos`
 
-Or `brew tap jordipolo/minos` and then `brew install <formula>`.
+Or `brew tap jordipolo/minos` and then `brew install minos`.
 
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
